@@ -1,0 +1,1 @@
+export { ClockTemplate } from "./ClockTemplate";
