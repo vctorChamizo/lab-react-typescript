@@ -4,4 +4,4 @@ interface Props {
   message: string;
 }
 
-export const Message = ({ message }: Props) => <p>{message}</p>;
+export const Header = ({ message }: Props) => <h1>{message}</h1>;
