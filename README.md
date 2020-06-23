@@ -1,1 +1,1 @@
-# lab-react-typescript
+# Lab | React TypeScript
